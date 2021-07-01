@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a digital marketer.
+
+Talk soon
+- LinkedIn: (https://linkedin.com/in/mkrtchyantigran).
+
+I'm trying to use markdown **bold**.
 <!--
 **tigmk/tigmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
