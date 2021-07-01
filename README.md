@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a digital marketer. Tigtan B. Mkrtchyan.
+I am a digital marketer. Tigran B. Mkrtchyan.
 
 Talk soon
 - LinkedIn: (https://linkedin.com/in/mkrtchyantigran).
